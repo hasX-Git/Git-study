@@ -56,4 +56,6 @@ func main() {
 	var rows int
 	fmt.Scan(&rows)
 	pyramid(rows)
+
+	fmt.Println("Linest line of all lines")
 }
